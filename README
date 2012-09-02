@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4204
+
+Your boss ask for some specific unique style of code blocks ?
+This can help you toggle it easily and you can keep your own habit by this way .
+just try to use <F5> and <F6> to toggle !
+
+if (a == b) {
+        r = true ;
+}
+
+or :
+
+if (a == b)
+{
+        r = true ;
+}
+
